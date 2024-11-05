@@ -1,0 +1,13 @@
+body {
+color: palevioletred;
+background-color: lightpink;
+}
+
+
+section{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: list-item;
+    justify-content: center;
+   
+}
